@@ -1,5 +1,32 @@
 body {
-    background-color: aliceblue;
+    background-color: white;
     margin: 0;
     padding: 0;
+}
+
+header {
+    background-color: #B80C09;
+    margin: 20px 50px 20px 50px;
+    padding: 20px 0 20px 0;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input {
+    margin-right: 10px;
 }
